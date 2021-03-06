@@ -1,0 +1,56 @@
+body {
+    background:#edeff2;
+    color: #fff;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+header {
+    
+    color:#fff;
+
+}
+
+.lead {
+      padding: 10px 10px;
+}
+
+.col-4 a {
+   text-decoration: none;
+   padding: 10px 10px;
+   
+}
+
+main article {
+    color:#000;
+    background: #fff;
+    padding: 20px;
+}
+
+main article p {
+    margin-bottom: 20px;;
+}
+
+
+.widgets .widget {
+    background: #4f5ef5;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.rrss,
+.icon-instagram,
+.icon-facebook,
+.icon-youtube-play,
+.icon-whatsapp
+ {
+    text-decoration: none;
+    color:#fff;
+}
+
